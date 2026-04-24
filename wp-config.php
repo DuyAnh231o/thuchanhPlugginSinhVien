@@ -39,7 +39,7 @@ define( 'DB_COLLATE', '' );
 
 define('WP_ALLOW_MULTISITE', true);
 
-
+define('ALLOW_UNFILTERED_UPLOADS', true);
 /**#@+
  * Authentication unique keys and salts.
  *

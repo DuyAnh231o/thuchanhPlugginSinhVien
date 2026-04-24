@@ -1,0 +1,6 @@
+2026-04-13T10:43:34+00:00 WARNING Failed to get WooCommerce patterns from the PTK: "Failed to connect with the Patterns Toolkit API: try again later."
+2026-04-13T11:10:06+00:00 INFO Payment gateway enabled: "Direct bank transfer"
+2026-04-13T11:10:10+00:00 INFO Payment gateway enabled: "Check payments"
+2026-04-13T11:58:08+00:00 INFO Payment gateway enabled: "Quét mã Momo"
+2026-04-13T11:58:11+00:00 INFO Payment gateway enabled: "Quét Mã VNPay"
+2026-04-13T12:04:02+00:00 INFO Payment gateway enabled: "Cash on delivery"

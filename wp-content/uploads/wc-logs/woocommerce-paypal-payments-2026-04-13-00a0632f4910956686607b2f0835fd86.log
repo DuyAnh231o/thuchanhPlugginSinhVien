@@ -1,0 +1,9 @@
+2026-04-13T11:11:10+00:00 DEBUG #2949 - [New Request] GET /duyanhblog/wp-admin/admin.php
+2026-04-13T11:11:10+00:00 DEBUG #2949 - GET https://api.woocommerce.com/integrations/ppc/v1/customer/partners/K8SKZ36LQBWXJ/merchant-integrations/
+Request failed. WP error message: cURL error 28: Failed to connect to api.woocommerce.com port 443 after 10003 ms: Timeout was reached
+
+2026-04-13T11:11:10+00:00 WARNING #2949 - Could not fetch sellers status. CONTEXT: {"args":{"method":"GET","headers":{"Authorization":"Bearer token","Content-Type":"application/json"}},"response":{"errors":{"http_request_failed":["cURL error 28: Failed to connect to api.woocommerce.com port 443 after 10003 ms: Timeout was reached"]},"error_data":[]}}
+2026-04-13T11:11:57+00:00 DEBUG #9280 - [New Request] GET /duyanhblog/wp-json/wc/v3/wc_paypal/webhooks
+2026-04-13T11:11:57+00:00 DEBUG #9280 - GET https://api.woocommerce.com/integrations/ppc/v1/notifications/webhooks
+Request failed. WP error message: cURL error 28: Failed to connect to api.woocommerce.com port 443 after 10012 ms: Timeout was reached
+
