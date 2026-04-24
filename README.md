@@ -1,3 +1,4 @@
+<img width="3070" height="1853" alt="Screenshot 2026-04-24 140533" src="https://github.com/user-attachments/assets/b5ef390c-b21b-43be-9066-f8b7ee128a5c" />
 # Student Manager Plugin
 
 ## Giới thiệu
@@ -23,6 +24,7 @@ student-manager/
 
 ## Demo
 
-Ảnh 
+Ảnh <img width="3070" height="1853" alt="Screenshot 2026-04-24 140533" src="https://github.com/user-attachments/assets/3c0f5adf-ec64-4b15-b088-f337d2e9c9da" />
 
---- ![alt text](<img/Screenshot 2026-04-24 140533.png>)
+
+--- 
