@@ -1,0 +1,13 @@
+.sm-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.sm-table th, .sm-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.sm-table th {
+    background-color: #f4f4f4;
+}
